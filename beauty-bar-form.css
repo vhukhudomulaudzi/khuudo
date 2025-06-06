@@ -1,0 +1,23 @@
+body{background-color: palevioletred; }
+fieldset{background-color: rgb(249, 178, 190);
+margin: 110px;
+border-radius: 10px;border-color: rgb(235, 160, 173);}
+legend{font-weight: 900;
+font-size: 30px;
+font-family: sans-serif;}
+
+label{font-size: 20px;}
+input{border-radius: 4px; border: none;}
+ul {
+  list-style: none;
+display: flex;
+  gap: 30px;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif; font-size: 30px;
+  background-color: rgb(249, 178, 190);
+}
+ul{color: black;
+align-items: center;
+justify-content: space-between;}
+li{font-weight: bold;} 
